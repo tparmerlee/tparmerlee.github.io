@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Cristian Castellari
-description: "Informatico, padre e marito. Nel tempo libero mi dedico alla famiglia, agli amici e ai videogiochi"
-keywords: cristian, castellari, blog, jekyll, gh-pages, kace, github, wordpress
+title: Tristan Parmerlee
+description: "Academic website"
+keywords: tristan, parmerlee, academic, astronomy, research, ciera, reu, loyola, luc
 baseurl:  '' # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://cristiancastellari.it  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://tparmerlee.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 #
@@ -15,7 +15,7 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 # Jekyll configuration
 ####################################
 #
-timezone: Europe/Rome
+timezone: America/Chicago
 highlighter: rouge
 markdown: kramdown
 excerpt_separator: <!--more-->
@@ -58,15 +58,15 @@ webmaster_verifications:
 ####################################
 #
 author:  # change following line to your infomation.
-  name: Cristian Castellari  # Be used at blog posts' author.
-  first_name: Cristian  # Be used at index page about me section.
-  last_name: Castellari  # Be used at index page about me section.
+  name: Tristan Parmerlee  # Be used at blog posts' author.
+  first_name: Tristan  # Be used at index page about me section.
+  last_name: Parmerlee  # Be used at index page about me section.
   avatar: /static/assets/img/landing/me.jpg  # upload your avatar at directory and edit it.
-  github_username: skyflash  # Leave blank if you don't have now
-  linkedin_id: cristiancastellari # Leave blank if you don't have now
+  github_username: tparmerlee  # Leave blank if you don't have now
+  linkedin_id: tristanparmerlee # Leave blank if you don't have now
   facebook_username: cristian.castellari  # Leave blank if you don't have now
-  twitter: BloggerStanco
-  email: c.castellari@gmail.com  # Leave blank if you don't have now
+  twitter: 
+  email: parmerleetris@gmail.com  # Leave blank if you don't have now
   cv: https://cristiancastellari.it/static/assets/cv/CV_Cristian_Castellari.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
 
 
@@ -81,12 +81,12 @@ author:  # change following line to your infomation.
   Credo fortmente in ITIL come framework da applicare non solo all'IT ma anche a normali situazioni di vita quotidiana"
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: cristiancastellari-it
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  #name: cristiancastellari-it
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
 #  id: UA-93473370-3
 
 ## google optimize
