@@ -5,7 +5,7 @@
 #
 title: Tristan Parmerlee
 description: "Academic website"
-keywords: tristan, parmerlee, academic, astronomy, research, ciera, reu, loyola, luc
+keywords: tristan, parmerlee, academic, astronomy, astrophysics, physics, research, ciera, reu, loyola, luc
 baseurl:  '' # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://tparmerlee.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
@@ -36,16 +36,15 @@ lang: it_IT
 permalink: /blog/:categories/:title/
 
 social:
-  name: Cristian Castellari
+  name: Tristan Parmerlee
   links:
-    - https://twitter.com/BloggerStanco
-    - https://www.facebook.com/cristian.castellari
-    - https://www.linkedin.com/in/cristiancastellari/
-    - https://github.com/Skyflash
+    - https://www.facebook.com/profile.php?id=100080789220410
+    - https://www.linkedin.com/in/tristanparmerlee/
+    - https://github.com/tparmerlee
 
-twitter:
-  card: summary
-  username: BloggerStanco
+#twitter:
+  #card: summary
+  #username: BloggerStanco
 
 webmaster_verifications:
   google: FByo2xcDR6RaUId2DdQjhAmq9YMjlEhVlL0OgK8KDzU
@@ -67,7 +66,7 @@ author:  # change following line to your infomation.
   facebook_username: cristian.castellari  # Leave blank if you don't have now
   twitter: 
   email: parmerleetris@gmail.com  # Leave blank if you don't have now
-  cv: https://cristiancastellari.it/static/assets/cv/CV_Cristian_Castellari.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: #https://cristiancastellari.it/static/assets/cv/CV_Cristian_Castellari.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
 
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
@@ -77,8 +76,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-apple
     - name: fa-code
-  desc: "Informatico, padre e marito. Appassionato di tecnologia da sempre, curioso di natura. Nel tempo libero mi dedico alla famiglia, agli amici, alla cucina e ai videogiochi.
-  Credo fortmente in ITIL come framework da applicare non solo all'IT ma anche a normali situazioni di vita quotidiana"
+  desc: "4th year undergraduate student at Loyola University Chicago, majoring in Physics with Computer Science and Mathematics"
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -94,7 +92,7 @@ go:
   # id:
 
 ## donation
-donation: off  # type 'on'/'off' to choice display donation button at post page or not
+donation: on  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
