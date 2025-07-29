@@ -12,6 +12,9 @@
   job:
     detail: Student in the 2025 CIERA REU Program with a research focus on hydrodynamical stellar collisions and machine learning.
     i18n: integra_job
+  image:
+    detail:
+    il8n: integra_image
   icon: fa-plus-square
   present: true
 
@@ -27,6 +30,9 @@
   job:
     detail: Majored in Physics with Computer Science and Mathematics. Participated in undergraduate research, President of Physics Club, and Treasurer of Loyolaccapella.
     i18n: integra_job
+  image:
+    detail:
+    il8n: integra_image
   icon: fa-plus-square
   present: true
   
@@ -42,6 +48,9 @@
   job:
     detail: Majored in Physics, Astronomy, and Mathematics. Student Artificial Gravity Research Lead as a Member of the MISSFIT Collaboration
     i18n: integra_job
+  image:
+    detail:
+    il8n: integra_image
   icon: fa-plus-square
   present: false
 
