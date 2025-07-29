@@ -1,64 +1,54 @@
 ---
-title: Disclaimer e Licenza
+title: Disclaimer and License
 layout: page
-date: '2021-02-16'
-description: Disclaimer e Licenza d'uso del sito web
-lang: it_IT
+date: '2025-07-29'
+description: Disclaimer and License on the Website
+lang: en
 permalink: /about/disclaimer/
 ---
 ### DISCLAIMER
-L’accesso al sito è completamente gratuito ma comporta l’accettazione delle seguenti condizioni d’uso. Siete pregati di leggerle attentamente poiché **il solo fatto di proseguire nell’utilizzo o consultazione del sito costituisce completa accettazione delle condizioni** stesse da parte di ogni visitatore o utente.
+Access to the site is completely free but implies acceptance of the following terms of use. Please read them carefully, as continued use or browsing of the site constitutes full acceptance of the terms and conditions by each visitor or user.
 
 <br> 
 
-### Informazioni di cui alla legge 7 marzo 2001 n. 62
+### Warranties and Limitations of Liability
+The information published should be considered merely opinions or advice, and never professional advice. Furthermore, it may not always be exhaustive, complete, accurate, or up-to-date. The administrator assumes no responsibility for the data presented on the site for any purpose. Use of the news, documents, and information published is without any guarantee and is at the user's own risk. The administrator will not be liable for any direct or indirect damages of any nature resulting from the use of the information available on the site. The information is updated whenever deemed appropriate, without prior notice.
 
-Il presente sito non è un “prodotto editoriale diffuso al pubblico con periodicità regolare”, in quanto non viene aggiornato secondo scadenze predeterminate, bensì esclusivamente sulla base degli eventi ritenuti interessanti dall’autore. Mancando i requisiti della periodicità, della testata e la struttura, il presente sito si sottrae all’obbligo di registrazione di cui all’art. 5 L. 8 febbraio 1948 n. 47, né può essere in alcun modo ritenuto pubblicazione o periodico ai sensi delle leggi vigenti, avendo solo lo scopo di offrire uno spazio di riflessione personale su tematiche di interesse generale. Tutte le notizie citate hanno una fonte pubblica e sono da trattarsi come commenti e considerazioni alle notizie medesime. 
+If you find errors, omissions, or inaccuracies in the information published on this site, or believe that any information or opinions published violate your rights or the rights of third parties, please write to the administrator using the links on the HOME PAGE. We will verify and immediately remove from the site any materials, data, information, or opinions that are incomplete, inaccurate, or violate the rights of third parties.
 
-Responsabile del sito web: Cristian Castellari, Imola, Italia (Codice Fiscale CSTCST71S30C265A)
-
-<br> 
-
-### Garanzie e limitazioni di responsabilità
-Le informazioni pubblicate devono ritenersi semplici opinioni o consigli e mai pareri professionali. Inoltre potrebbero non sempre essere esaurienti, complete, precise o aggiornate. L'amministratore non risponde in alcun modo dei dati riportati nel sito per qualsiasi finalità. L'uso delle notizie, dei documenti e delle informazioni pubblicate si intende senza alcun tipo di garanzia e a rischio e pericolo dell'utilizzatore. L'amministratore non sarà in alcun caso tenuto a rispondere di danni diretti o indiretti, di qualsiasi natura, derivanti dall'uso delle informazioni disponibili nel sito. Le informazioni vengono aggiornate qualora ciò sia ritenuto opportuno, senza alcuna previa comunicazione.
-
-Qualora l'utente del sito riscontri errori, omissioni ed inesattezze nelle informazioni pubblicate, ovvero ritenga che le informazioni o le opinioni pubblicate violino i propri diritti o i diritti di terzi, è pregato di scrivere all'amministratore tramite i link indicati in [HOME PAGE]({{ site.url }}) e provvederemo a verificare e rimuovere immediatamente dal sito materiali, dati, informazioni o opinioni che risultino non completi, inesatti o che costituiscano violazione di diritti di terzi.
-
-Per quanto riguarda notizie, analisi, opinioni pubblicate sul sito ma tratte da altri siti, si rimanda al disclaimer dei relativi siti.
-L'amministratore non potrà mai essere ritenuto responsabile per i contenuti di siti esterni, collegati tramite link da una qualunque pagina del sito, non essendo in grado di verificarli continuamente. I link vengono forniti al visitatore esclusivamente per comodità degli utenti e l'inclusione di qualsiasi link non implica alcun avallo né controllo del relativo sito o delle opinioni ivi espresse.
+For news, analyses, and opinions published on the site but taken from other sites, please refer to the disclaimers of those sites. The administrator cannot be held responsible for the content of external sites linked from any page of the site, as it is unable to continuously monitor them. Links are provided to visitors solely as a convenience, and the inclusion of any link does not imply any endorsement or control of the site or the opinions expressed therein.
 
 <hr>
 
-### Notizie e Commenti
-<i class="fa fa-comments-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> Il contenuto degli articoli presenti nel sito rappresenta il punto di vista dell'autore. In alcuni casi è consentito da parte degli utenti inserire dei **commenti** agli articoli, i quali commenti rappresentano esclusivamente il punto di vista dell'autore del commento medesimo, per cui l'utente che inserisce il commento si assume integralmente la responsabilità di quanto scritto.
+### News and Comments
+<i class="fa fa-comments-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> The content of the articles on this site represents the author's views. In some cases, users are permitted to post **comments** on articles. These comments represent the sole views of the commenter, and the commenter assumes full responsibility for their comments.
 
+The administrator assumes no responsibility for comments, but reserves the right to remove, at his sole and unquestionable discretion, any comment that is:
 
-L'amministratore non assume alcuna responsabilità dei commenti, ma si riserva la facoltà di rimuovere a proprio esclusivo ed insindacabile giudizio qualsiasi commento che risulti:
+- unlawful, defamatory, racist or libelous
+- instigator of hatred or violence
+- harmful to people, institutions or religions
+- invasive of the privacy of others
+- harmful to minors
+- harmful to trademarks, patents and contents protected by copyright
+- containing personal data of third parties
+- commercial activity promoter
 
-- illecito, diffamatorio, razzista o calunnioso
-- istigatore all'odio o alla violenza
-- lesivo nei confronti di persone, istituzioni o religioni
-- lesivo della privacy altrui
-- dannoso per minori di età
-- lesivo nei confronti di marchi, brevetti e contenuti protetti dal diritto d'autore (copyright)
-- contenente dati personali di terzi
-- promotore di attività commerciali
+For further information on data processing when using the comments box, please refer to the [privacy policy](/about/privacy/).
 
-Per ulteriori informazioni sul trattamento dei dati nell'utilizzo del box commenti si rimanda all'[informativa privacy](/about/privacy/).
+Please note that questions and requests posted in comments do not imply any obligation on the part of the site owner to respond. Specifically, we will not respond to questions already answered in the article, questions already answered in other comments, or questions regarding commercial activities in general (for these, you will need to request a paid consultation through the Contact section).
 
-Si fa presente che domande e richieste inserite nei commenti non comportano alcun obbligo da parte del titolare del sito di rispondere. In particolare non si risponderà a domande la cui risposta è presente già nell'articolo, a domande già risposte a seguito di altri commenti e in generale a domande inerenti attività commerciali (per queste si dovrà chiedere apposita consulenza a pagamento tramite la sezione Contatti).
 
 <hr> 
 
-### Licenza d'uso
+### License to Use
 
-<i class="fa fa-creative-commons fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> L’intero contenuto di questo sito è pubblicato secondo la licenza di utilizzo **Creative Commons**, salvo diverse indicazioni e salvo le rispettive licenze dei siti o autori eventualmente citati. E’ consentita la copia e la citazione di articoli, brani o parti di essi a condizione che sia accompagnata dall’indicazione del nome dell’autore (cioè l’amministratore e titolare del sito qualora non diversamente indicato) e della fonte <a href="https://cristiancastellari.it">cristiancastellari.it</a> con un link attivo al materiale condiviso. 
+<i class="fa fa-creative-commons fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> **The entire content of this site is published under the Creative Commons license**, unless otherwise indicated and subject to the respective licenses of any sites or authors cited. Copying and quoting articles, passages, or parts thereof is permitted, provided the author's name is cited (i.e., the site administrator and owner unless otherwise indicated) and the source (cristiancastellari.it) with an active link to the shared material.
 
-<p style="text-align: center;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Il sito web cristiancastellari.it è distribuito con licenza:<br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.</p><br />
+<p style="text-align: center;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The website tparmerlee.github.io is distributed under the:<br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p><br />
 
-Sono consentiti i link alla home page o a pagine interne da altri siti, con esclusione di link provenienti da siti pornografici o da siti con contenuti palesemente antidemocratici, o che si propongono di veicolare idee fondate sulla superiorità o sull’odio razziale o etnico o religioso, ovvero incitino alla preparazione e/o alla commissione di atti di discriminazione per motivi razziali, etnici, nazionali o religiosi.
-Ogni violazione sarà perseguita in sede civile e penale.
+Links to the home page or internal pages from other sites are permitted, with the exclusion of links from pornographic sites or sites with blatantly anti-democratic content, or those that seek to convey ideas based on racial, ethnic, or religious superiority or hatred, or that incite the preparation and/or commission of acts of discrimination based on racial, ethnic, national, or religious grounds. Any violation will be prosecuted under civil and criminal law.
 
 <hr>
 
-Il presente sito è stato realizzato in HTML, Markdown e JavaScript, processato con [Jekyll](https://jekyllrb.com/) ed è hostato su [GitHub Pages](https://pages.github.com/)
+This site was created in HTML, Markdown and JavaScript, processed with [Jekyll](https://jekyllrb.com/) and is hosted on [GitHub Pages](https://pages.github.com/)
