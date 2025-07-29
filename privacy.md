@@ -1,183 +1,178 @@
 ---
-title: Informativa Privacy e Cookie
+title: Privacy Policy for Cookies
 layout: page
-date: '2021-02-12'
-description: Privacy Policy e Cookie Policy del sito web
-lang: it_IT
+date: '2025-07-29'
+description: Privacy Policy for Cookies on Website
+lang: en
 permalink: /about/privacy/
 ---
-### Informativa Privacy (semplificata)
+### Privacy Policy (simplified)
 
-Lo scopo dell'informativa privacy è di fornire la massima trasparenza relativamente alle informazioni che il sito raccoglie e come le usa. 
+The purpose of this privacy policy is to provide maximum transparency regarding the information the site collects and how it is used.
 
-In ottemperanza degli obblighi derivanti dal **Regolamento europeo per la protezione dei dati personali n. 679/2016 (GDPR)**, il presente sito rispetta e tutela la riservatezza dei visitatori e degli utenti, ponendo in essere ogni sforzo possibile e proporzionato per non ledere i diritti degli utenti. 
+In compliance with the obligations arising from **United States Data Privacy Laws**, this site respects and protects the privacy of its visitors and users, making every possible and proportionate effort to avoid infringing their rights.
 
-Il presente sito non pubblica annunci pubblicitari, non usa dati a fini di invio di pubblicità, però fa uso di servizi di terze parti al fine di migliorare l'utilizzo del sito, terze parti che potrebbero raccogliere dati degli utenti e poi usarli per inviare annunci pubblicitari personalizzati su altri siti. Tuttavia il presente sito pone in essere ogni sforzo possibile per tutelare la privacy degli utenti e minimizzare la raccolta dei dati personali. Ad esempio:
+This site does not publish advertisements or use data for advertising purposes. However, it uses third-party services to improve the usability of the site. These third parties may collect user data and then use it to send personalized ads on other sites. However, this site makes every effort to protect user privacy and minimize the collection of personal data. For example:
 
-- inserimento dei commenti tramite un servizio fornito da terza parte (Disqus). Disqus, al momento dell'inserimento del commento chiede specificamente il consenso fornendo una sua propria informativa. In quel momento l'utente può stabilire come i suoi dati verranno trattati da Disqus. Questo sito non tratta in alcun modo i suddetti dati.  
+- posting comments via a third-party service (Disqus). Disqus specifically requests consent when a comment is posted, providing its own privacy policy. At that point, the user can determine how their data will be processed by Disqus. This site does not process the aforementioned data in any way.
 
-Per ulteriori informazioni potete leggere **l'informativa completa** qui di seguito.
+For further information, please read the full policy below.
 
 <hr>
 
-### Informativa privacy (completa)
+### Privacy Policy (complete)
 
 <br>
 
-### Base giuridica del trattamento
+### Legal Basis of the Processing
 
-Il presente sito tratta i dati prevalentemente in base al **consenso** degli utenti. Il conferimento del consenso avviene tramite il **banner posto in fondo alla pagina**, oppure tramite l’uso o la consultazione del sito, quale comportamento concludente. Con l'uso o la consultazione del sito i visitatori e gli utenti approvano la presente informativa privacy e acconsentono al trattamento dei loro dati personali in relazione alle modalità e alle finalità di seguito descritte, compreso l'eventuale diffusione a terzi se necessaria per l'erogazione di un servizio (es. box commenti). Tramite i moduli di comunicazione o di richiesta di servizi vengono raccolti ulteriori consensi relativi alla finalità specifica del servizio.
+This site processes data primarily based on user consent. Consent is provided via the banner at the bottom of the page, or through use or browsing of the site, as a conclusive action. By using or browsing the site, visitors and users approve this privacy policy and consent to the processing of their personal data in relation to the methods and purposes described below, including any disclosure to third parties if necessary for the provision of a service (e.g., comments box). Further consent is collected through the communication or service request forms, relating to the specific purpose of the service.
 
-<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> Il conferimento dei dati e quindi il consenso alla raccolta e al trattamento dei dati è facoltativo, l'Utente può negare il consenso, e può revocare in qualsiasi momento un consenso già fornito (tramite il banner posto a fondo pagina o le impostazioni del browser per i cookie, o il link Contatti). Tuttavia negare il consenso può comportare l'impossibilità di erogare alcuni servizi e l'esperienza di navigazione nel sito sarebbe compromessa. 
+<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> Providing data and therefore consenting to data collection and processing is optional. Users may refuse consent, and may revoke consent already given at any time (via the banner at the bottom of the page, their browser's cookie settings, or the Contact link). However, denying consent may make it impossible to provide certain services, and the site's browsing experience may be compromised.
 
-I dati raccolti a fini di sicurezza del sito, prevenzione degli abusi e statistica, sono trattati in base ai **legittimi interessi** del titolare del trattamento. 
+The data collected for site security, abuse prevention, and statistics purposes are processed based on the data controller's legitimate interests.
 
 <br/>
 
-### Finalità del trattamento
+### Purpose of the Processing
 
-Il trattamento dei dati raccolti dal sito, oltre alle finalità connesse, strumentali e necessarie alla fornitura del servizio, è volto alle seguenti finalità:
+The processing of data collected by the site, in addition to the purposes related, instrumental, and necessary to providing the service, is aimed at the following purposes:
 
-- **Statistica (analisi)**<br>
-Raccolta di dati e informazioni in forma esclusivamente aggregata e anonima al fine di verificare il corretto funzionamento del sito. Nessuna di queste informazioni è correlata alla persona fisica-Utente del sito, e non ne consentono in alcun modo l'identificazione. 
+- **Statistics (Analysis)**<br>
+Collection of data and information in an exclusively aggregated and anonymous form to verify the proper functioning of the site. None of this information is related to the individual user of the site, and does not allow identification in any way.
 
-- **Sicurezza**<br>
-Raccolta di dati e informazioni al fine di tutelare la sicurezza del sito (filtri antispam, firewall, rilevazione virus) e degli Utenti e per prevenire o smascherare frodi o abusi a danno del sito web. I dati sono registrati automaticamente e possono eventualmente comprendere anche dati personali (indirizzo Ip) che potrebbero essere utilizzati, conformemente alle leggi vigenti in materia, al fine di bloccare tentativi di danneggiamento al sito medesimo o di recare danno ad altri utenti, o comunque attività dannose o costituenti reato. Tali dati non sono mai utilizzati per l'identificazione o la profilazione dell'Utente e vengono cancellati periodicamente.
+- **Security**<br>
+Data and information are collected to protect the security of the site (spam filters, firewalls, virus detection) and its users, and to prevent or detect fraud or abuse of the website. The data is recorded automatically and may also include personal data (IP address), which may be used, in accordance with applicable laws, to block attempts to damage the site or other users, or otherwise engage in harmful or criminal activities. This data is never used to identify or profile users and is deleted periodically.
 
-- **Attività accessorie**<br>
-Comunicare i dati a terze parti che svolgono funzioni necessarie o strumentali all'operatività del servizio (es. box commenti), e per consentire a terze parti di svolgere attività tecniche, logistiche e di altro tipo per nostro conto. I fornitori hanno accesso solo ai dati personali che sono necessari per svolgere i propri compiti, e si impegnano a non utilizzare i dati per altri scopi, e sono tenuti a trattare i dati personali in conformità delle normative vigenti.
+- **Ancillary Activities**<br>
+Disclose data to third parties who perform functions necessary or instrumental to the operation of the service (e.g., comment boxes), and to allow third parties to perform technical, logistical, and other activities on our behalf. Suppliers have access only to the personal data necessary to perform their tasks and undertake not to use the data for other purposes. They are required to process personal data in accordance with applicable regulations.
  
 <br />
 
-### Dati raccolti
+### Data Collected
 
-Il presente sito raccoglie dati degli utenti in due modi.
+This site collects user data in two ways.
 
-<i class="fa fa-pencil-square-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> **Dati raccolti in maniera automatizzata**<br>
-Durante la navigazione degli Utenti possono essere raccolte le seguenti informazioni che vengono conservate nei file di log del server (hosting) del sito:
+<i class="fa fa-pencil-square-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> **Data collected automatically**<br>
+During User navigation, the following information may be collected and stored in the site's server (hosting) log files:
 
-- indirizzo internet protocol (IP)
-- tipo di browser
-- parametri del dispositivo usato per connettersi al sito
-- nome dell'internet service provider (ISP)
-- data e orario di visita
-- pagina web di provenienza del visitatore (referral) e di uscita
-- eventualmente il numero di click
+- Internet Protocol (IP) address
+- Browser type
+- Device parameters used to connect to the site
+- Name of the Internet Service Provider (ISP)
+- Date and time of visit
+- Visitor's referral and exit web page
+- Possibly the number of clicks
 
-Questi dati non sono disponibili in alcun modo e restano di esclusiva gestione del fornitore di questo spazio web (GitHub.com)
+This data is not available in any way and remains the exclusive management of the provider of this web space (GitHub.com)
 
-<i class="fa fa-pencil-square-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> **Dati conferiti volontariamente**
+<i class="fa fa-pencil-square-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> **Data Voluntarily provided**
 
-Il sito può raccogliere altri dati in caso di utilizzo volontario di servizi da parte degli utenti, quali servizi di commenti, di comunicazione (moduli per contatti, box commenti), e verranno utilizzati esclusivamente per l'erogazione del servizio richiesto:
+The site may collect other data when users voluntarily use services, such as commenting and communication services (contact forms, comment boxes), and these data will be used exclusively to provide the requested service:
 
-- nome
-- indirizzo email
+- name
+- email address
 
-I commenti sono gestiti tramite un servizio esterno (Disqus) per il quale si rimanda alle policy del servizio per ulteriori informazioni (si veda la sezione cookies). 
+Comments are managed through an external service (Disqus), for which please refer to the service's policies for further information (see the cookies section).
  
 <br>
 
-### Luogo del trattamento
+### Location of Processing
 
-I dati raccolti dal sito sono trattati presso la sede del Titolare del Trattamento, e presso il datacenter del web Hosting. Il web hosting (VHosting Solution s.r.l Unipersonale - Via A. Telesino 67, Palermo, IT), che è responsabile del trattamento dei dati, elaborando i dati per conto del titolare, si trova nello Spazio Economico Europeo e agisce in conformità delle norme europee (policy privacy di VHosting). 
-
-<br>
-
-### Periodo di conservazione dei dati
-I dati raccolti dal sito durante il suo funzionamento sono conservati per il tempo strettamente necessario a svolgere le attività precisate. Alla scadenza i dati saranno cancellati o anonimizzati, a meno che non sussistano ulteriori finalità per la conservazione degli stessi.
-
-I dati (indirizzo IP) utilizzati a fini di sicurezza del sito (blocco tentativi di danneggiare il sito) sono conservati per 7 giorni. 
+The data collected by the site is processed at the Data Controller's headquarters and at the web hosting provider's data center. The web hosting provider (GitHub - USA), which is responsible for data processing on behalf of the data controller, is located in the United States of America and operates in complience with U.S. Law.
 
 <br>
 
-### Trasferimento dei dati raccolti a terze parti
+### Data Retention Period
+The data collected by the site during its operation is retained for the time strictly necessary to carry out the specified activities. Upon expiration, the data will be deleted or anonymized, unless there are other purposes for its retention.
 
-I dati rilevati dal sito generalmente non vengono forniti a terzi, tranne che in casi specifici: legittima richiesta da parte dell’autorità giudiziaria e nei soli casi previsti dalla legge; qualora sia necessario per la fornitura di uno specifico servizio richiesto dell'Utente; per l'esecuzione di controlli di sicurezza o di ottimizzazione del sito.
+The data (IP address) used for site security purposes (blocking attempts to damage the site) is retained for 7 days.
 
-#### Trasferimento dei dati in paesi extra UE
+<br>
 
-<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> Il presente sito potrebbe condividere alcuni dei dati raccolti con servizi localizzati al di fuori dell'area dell'Unione Europea. In particolare con Google, Facebook e Microsoft (LinkedIn) tramite i social plugin, Disqus e il servizio di Google Analytics. Il trasferimento è autorizzato in base a specifiche decisioni dell'Unione Europea e del Garante per la tutela dei dati personali, oppure in base alle clausole contrattuali standard previste dai singoli servizi. 
+### Transfer of Collected Data to Third Parties
+
+The data collected by the site is generally not disclosed to third parties, except in specific cases: legitimate request by judicial authorities and only in cases provided for by law; when necessary to provide a specific service requested by the User; or to perform security checks or optimize the site.
 
 <hr> 
 
 ### Cookies
 
-I cookies sono file di testo che vengono registrati sul terminale dell'utente oppure che consentono l'accesso ad informazioni sul terminale dell'utente. I cookie permettono di conservare informazioni sulle preferenze dei visitatori, sono utilizzati al fine di verificare il corretto funzionamento del sito e di migliorarne le funzionalità personalizzando il contenuto delle pagine in base al tipo del browser utilizzato, oppure per semplificarne la navigazione automatizzando le procedure (es. Login, lingua sito), ed infine per l'analisi dell'uso del sito da parte dei visitatori.
+Cookies are text files that are stored on the user's terminal or that allow access to information on the user's terminal. Cookies allow us to store information about visitor preferences. They are used to verify the proper functioning of the site and improve its functionality by customizing page content based on the browser used, or to simplify navigation by automating procedures (e.g., login, site language), and finally to analyze visitor use of the site.
 
-Il presente sito fa uso delle seguenti categorie di cookie:
+This site uses the following categories of cookies:
 
-- **Cookie Tecnici**, utilizzati al solo fine di effettuare la trasmissione di una comunicazione elettronica, per garantire la corretta visualizzazione del sito e la navigazione all’interno di esso. Alcuni di questi cookie sono eliminati alla chiusura del browser (cookie di sessione), altri hanno una durata maggiore (come ad esempio il cookie necessario per conservazione il consenso dell’utente in relazione all’uso dei cookie, che dura **1 mese**). Per questi cookie non occorre consenso;
+- **Technical Cookies**, used for the sole purpose of transmitting electronic communications, to ensure the correct display of the site and navigation within it. Some of these cookies are deleted when the browser is closed (session cookies), others have a longer duration (such as the cookie required to retain the user's consent to the use of cookies, which lasts **1 month**). Consent is not required for these cookies;
 
-- **Preferenze**, che consentono al sito web di memorizzare informazioni che ne influenzano il comportamento o l'aspetto, quali la lingua preferita o la località nella quale ti trovi, anch'essi necessari al funzionamento del sito e quindi assimilabili ai cookie tecnici.
+- **Preferences**, which allow the website to store information that influences its behavior or appearance, such as your preferred language or location. These are also necessary for the site to function and are therefore similar to technical cookies.
 
-<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> Cliccando OK sul banner presente al primo accesso al sito oppure navigando il sito, il visitatore acconsente espressamente all'uso dei cookie e delle tecnologie similari, e in particolare alla registrazione di tali cookie sul suo terminale per le finalità sopra indicate, oppure all'accesso tramite i cookie ad informazioni sul suo terminale.
+<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> By clicking OK on the banner displayed upon first accessing the site or by browsing the site, the visitor expressly consents to the use of cookies and similar technologies, and in particular to the storage of such cookies on their device for the purposes indicated above, or to accessing information on their device via cookies.
 
 <br>
 
-### Disabilitazione cookie
+### Disabling Cookies
 
-L'utente può rifiutare l'utilizzo dei cookie e in qualsiasi momento può revocare un consenso già fornito. Poiché i cookie sono collegati al browser utilizzato, **POSSONO ESSERE DISABILITATI DIRETTAMENTE DAL BROWSER**.
+The user can refuse the use of cookies and can revoke any consent already given at any time. Since cookies are linked to the browser used, **THEY CAN BE DISABLED DIRECTLY FROM THE BROWSER**.
 
-<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> LA DISABILITAZIONE DEI COOKIE POTREBBE IMPEDIRE IL CORRETTO UTILIZZO DI ALCUNE FUNZIONI DEL SITO STESSO, in particolare i servizi forniti da terze parti potrebbero non essere accessibili, e quindi potrebbero non essere visualizzabili:
+<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> DISABLING COOKIES MAY PREVENT THE CORRECT USE OF SOME FUNCTIONS OF THE SITE. In particular, third-party services may not be accessible and therefore may not be viewable:
 
-- Video di YouTube o altri servizi di condivisione video
-- Le funzionalità di sharing sui social network
-- i commenti di Disqus
+- YouTube videos or other video sharing services
+- Social network sharing features
+- Disqus comments
 
-Le istruzioni per la disabilitazione dei cookie, e per l'eventuale eliminazione di cookie già presenti sul dispositivo dell'Utente, si trovano alle seguenti pagine web: 
+Instructions for disabling cookies, and for deleting cookies already present on the user's device, can be found on the following web pages:
 
 [Mozilla Firefox](https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie) - [Microsoft Internet Explorer](https://support.microsoft.com/it-it/help/17442/windows-internet-explorer-delete-manage-cookies) -  [Microsoft Edge](https://support.microsoft.com/it-it/help/4027947/windows-delete-cookies) -  [Google Chrome](https://support.google.com/chrome/answer/95647?hl=it) - [Opera](https://www.opera.com/it/privacy/cookies) - [Apple Safari](https://support.apple.com/it-it/HT201265)
 
 <br> 
 
-### Cookie di terze parti
-Questo sito funge anche da intermediario per cookie di terze parti (come i pulsanti per i social network), utilizzati per poter fornire ulteriori servizi e funzionalità ai visitatori e per semplificare l'uso del sito stesso, o per fornire pubblicità personalizzata. Questo sito non ha alcun controllo sui loro cookie interamente gestiti dalle terze parti e non ha accesso alle informazioni raccolte tramite detti cookie. Le informazioni sull'uso dei detti cookie e sulle finalità degli stessi, nonché sulle modalità per l'eventuale disabilitazione, sono fornite direttamente dalle terze parti alle pagine indicate di seguito.
+### Third-party Cookies
+This site also acts as an intermediary for third-party cookies (such as social media buttons), used to provide additional services and features to visitors and to simplify the use of the site, or to provide personalized advertising. This site has no control over their cookies, which are entirely managed by third parties, and does not have access to the information collected through these cookies. Information on the use of these cookies and their purposes, as well as how to disable them, is provided directly by the third parties on the pages listed below.
 
-Si rammenta che generalmente il tracciamento degli utenti non comporta identificazione dello stesso, a meno che l'Utente non sia già iscritto al servizio e non sia anche già loggato, nel qual caso si intende che l'Utente ha già espresso il suo consenso direttamente alla terza parte al momento dell'iscrizione al relativo servizio (es. Facebook).
+Please note that user tracking generally does not identify the user, unless the user is already registered for the service and is also logged in, in which case it is assumed that the user has already given their consent directly to the third party when registering for the relevant service (e.g., Facebook).
 
-Il presente sito utilizza cookie delle seguenti terze parti:
+This site uses cookies from the following third parties:
 
-* **Disqus**: consente di inserire commenti sul sito e di creare collegamenti tra commenti anche tra siti diversi. Quando visiti una pagina di questo sito web che contiene il box commenti di Disqus, il tuo browser si collega direttamente ai server di Disqus da dove è caricato il box. Puoi inserire un commento connettendoti al tuo account Disqus, nel quale caso Disqus raccoglie informazioni sulla tua visita a questo e altri siti, e potrà collegare i tuoi movimenti online direttamente al tuo profilo personale. Se fornisci il consenso anche alla condivisione dei dati con terzi, Disqus li userà per fornirti pubblicità personalizzata.<br>
-Eventualmente, però, **puoi non fornire il consenso ai contenuti personalizzati**. Inoltre puoi anche commentare inserendo solo il nome e la mail, senza connetterti ad un account.<br><br>
-<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> **Disqus è titolare autonomo del trattamento dei dati**, e fornisce una sua specifica Informativa privacy con i dettagli del suo trattamento dati. 
-Se non desideri che Disqus registri i dati relativi alla tua visita sul nostro sito web e i i tuoi comportamenti online, devi uscire dal tuo account Disqus e, probabilmente, eliminare i cookie che Disqus ha installato nel tuo browser. 
-Dati raccolti: numero e comportamento degli utenti, indirizzo IP, identificativo del browser, identificativo del sito web che incorpora il box commenti. <br />
-Luogo di trattamento dei dati: USA<br />
-**L'Utente può disabilitare selettivamente l'azione di Disqus di raccolta di dati personali** alla pagina di [opt-out](https://disqus.com/data-sharing-settings/). 
+* **Disqus**: allows you to post comments on the site and create links between comments, even across different sites. When you visit a page on this website that contains a Disqus comment box, your browser connects directly to the Disqus servers where the box is loaded. You can post a comment by connecting to your Disqus account, in which case Disqus collects information about your visits to this and other sites and can link your online movements directly to your personal profile. If you also consent to sharing data with third parties, Disqus will use it to provide you with personalized advertising.<br>
+However, you may opt out of personalized content. You can also comment by entering only your name and email address, without connecting to an account. <br><br>
+<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> **Disqus is the independent data controller** and provides its own specific privacy policy with details on its data processing.
+If you do not want Disqus to record data relating to your visit to our website and your online behavior, you must log out of your Disqus account and, likely, delete the cookies Disqus has installed in your browser.
+Data collected: number and behavior of users, IP address, browser ID, and the website that incorporates the comment box. <br />
+Place of data processing: USA<br />
+**You may selectively opt out of Disqus collecting personal data** on the [opt-out](https://disqus.com/data-sharing-settings/) page.
 
 <hr> 
 
-### Misure di sicurezza
+### Security Measures
 
-Trattiamo i dati dei visitatori/utenti in maniera lecita e corretta, adottando le opportune misure di sicurezza volte ad impedire accessi non autorizzati, divulgazione, modifica o distruzione non autorizzata dei dati. Ci impegniamo a tutelare la sicurezza dei tuoi dati personali durante il loro invio, utilizzando il software Secure Sockets Layer (SSL), che cripta le informazioni in transito. Il trattamento viene effettuato mediante strumenti informatici e/o telematici, con modalità organizzative e con logiche strettamente correlate alle finalità indicate. Oltre al Titolare, in alcuni casi, potrebbero avere accesso ai dati categorie di incaricati coinvolti nell’organizzazione del sito ovvero soggetti esterni (come fornitori di servizi tecnici terzi, hoting provider). 
+We process visitor/user data lawfully and correctly, adopting appropriate security measures to prevent unauthorized access, disclosure, modification, or destruction of data. We are committed to protecting the security of your personal data during transmission by using Secure Sockets Layer (SSL) software, which encrypts information in transit. Processing is carried out using computerized and/or electronic means, with organizational methods and logic strictly related to the purposes indicated. In addition to the Data Controller, in some cases, categories of persons involved in the organization of the site or external parties (such as third-party technical service providers, hosting providers) may have access to the data.
 
 <br> 
 
-### Diritti dell'utente
+### User Rights
 
-Ai sensi del Regolamento europeo 679/2016 (GDPR) l’interessato al trattamento può, secondo le modalità e nei limiti previsti dalla vigente normativa, esercitare i **seguenti diritti**:
+Pursuant to United States Data Privacy Laws, the data subject may, in accordance with the procedures and within the limits established by current legislation, exercise the following rights:
 
-- diritto di **accesso**: chiedere la conferma che sia in essere un trattamento di dati che lo riguardano, e di ricevere informazioni sulle modalità e finalità del trattamento, nonché il diritto a ricevere copia dei dati forniti nei limiti della ragionevolezza;
-- diritto di **revocare il consenso** conferito in qualsiasi momento senza necessità di motivare, ma senza pregiudizio per il trattamento operato fino a quel momento;
-- diritto di **richiedere l'aggiornamento, la rettifica**, l'integrazione dei dati incompleti od inesatti;
-- diritto di **opporsi** in tutto o in parte al trattamento operato in base ai legittimi interessi del titolare, a meno che non vi sia un motivo legittimo per continuare il trattamento, come ad esempio l’esercizio di diritti in sede giudiziaria;
-- diritto di opporsi al trattamento dei dati personali per finalità di marketing o di comunicazione commerciale;
-- diritto alla cancellazione dei dati (anche dopo la revoca del consenso), qualora non più necessari alle finalità del titolare, in caso di revoca del consenso, opposizione al trattamento, trattamento in violazione di legge, o qualora sussista un obbligo legale di cancellazione;
-- diritto di **limitazione**, cioè di ottenere il blocco del trattamento in caso di violazione dei presupposti di liceità, ma anche se l'interessato chiede la rettifica dei dati (in attesa della rettifica) o si oppone al loro trattamento (in attesa della decisione del titolare), nel qual caso i dati non saranno trattati tranne che per la conservazione degli stessi;
-- diritto alla **portabilità dei dati**, cioè nei casi di trattamento basato su consenso, diritto di ricevere o di trasmettere ad altro titolare indicato, al solo costo dell’eventuale supporto, i suoi dati forniti al Titolare, in forma strutturata e leggibile da un elaboratore di dati e in un formato comunemente usato da un dispositivo elettronico;
-- diritto di presentare un reclamo all’Autorità di controllo (Garante Privacy – link alla pagina del Garante [http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/4535524](http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/4535524);
-- nonché, più in generale, esercitare tutti i diritti che gli sono riconosciuti dalle vigenti disposizioni di legge.
+- right of access: request confirmation as to whether or not personal data concerning him or her is being processed, and to receive information on the methods and purposes of the processing, as well as the right to receive a copy of the data provided, within reasonable limits;
+- right to withdraw consent granted at any time without having to provide a reason, but without prejudice to processing carried out up to that point;
+- right to request the updating, rectification, or integration of incomplete or inaccurate data;
+- the right to object, in whole or in part, to processing based on the data controller's legitimate interests, unless there is a legitimate reason to continue processing, such as the exercise of legal claims;
+- the right to object to the processing of personal data for marketing or commercial communication purposes;
+- the right to erasure of data (even after withdrawing consent), if the data is no longer necessary for the purposes of the data controller, if consent is withdrawn, if the data subject objects to processing, if the processing violates the law, or if there is a legal obligation to erase the data;
+- the right to restriction of processing, i.e., to obtain the blocking of processing in the event of a breach of the lawfulness of processing, but also if the data subject requests rectification of the data (pending rectification) or objects to its processing (pending the data controller's decision), in which case the data will not be processed except for storage;
+- right to **data portability**, meaning, in cases of consent-based processing, the right to receive or transmit to another designated data controller, at the sole cost of any media, the data provided to the Data Controller, in a structured and machine-readable format and in a format commonly used by an electronic device;
+- as well as, more generally, to exercise all the rights granted to you by applicable law.
 
-<i class="fa fa-info-circle fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> Per esercitare i diritti potrebbe essere necessario fornire documentazione atta a identificare l’Utente (copia di un documento di identità), per attestare la legittimità della richiesta e impedire che i dati finiscano in mani sbagliate. I termini per rispondere alle richieste sono di 30 giorni, prorogabili in casi particolari di altri 30 giorni.
+To exercise these rights, it may be necessary to provide documentation identifying the User (copy of an identity document), to certify the legitimacy of the request and prevent data from falling into the wrong hands. The deadline for responding to requests is 30 days, which may be extended for an additional 30 days in special cases.
 
-Le richieste vanno inoltrate al Titolare del trattamento.
+Requests must be forwarded to the Data Controller.
 
 <hr>
 
-### Soggetti del trattamento
-<i class="fa fa-handshake-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i>  Titolare del trattamento ai sensi delle leggi vigenti è l'amministratore del sito, Cristian Castellari, contattabile tramite i link indicati in [HOME PAGE]({{ site.url }}).
- 
+### Data Controllers
+<i class="fa fa-handshake-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i> The data controller under applicable law is the site administrator, Tristan Parmerlee, who can be contacted via the links indicated on [HOME PAGE]({{ site.url }}).
+
 <hr>
 
-### Aggiornamenti
-La presente privacy policy è aggiornata alla data del **12 Febbraio 2021**
+### Updates
+This privacy policy was updated on **July 29, 2025**
