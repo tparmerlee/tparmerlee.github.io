@@ -71,10 +71,10 @@ author:  # change following line to your infomation.
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fas fa-rocket
-    - name: fa-linux
+    - name: fas fa-meteor
+    - name: fas fa-redhat
   skill_icon2:
-    - name: fa-apple
+    - name: fab fa-python
     - name: fa-code
   desc: "4th year undergraduate student at Loyola University Chicago, majoring in Physics with Computer Science and Mathematics"
 
