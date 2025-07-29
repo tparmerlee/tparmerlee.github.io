@@ -32,7 +32,7 @@ kramdown:
 # Jekyll-SEO-tag settings
 ####################################
 #
-lang: it_IT
+lang: en
 permalink: /blog/:categories/:title/
 
 social:
