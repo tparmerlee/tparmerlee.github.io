@@ -66,12 +66,12 @@ author:  # change following line to your infomation.
   facebook_username:  # Leave blank if you don't have now
   twitter: 
   email: parmerleetris@gmail.com  # Leave blank if you don't have now
-  cv: #https://cristiancastellari.it/static/assets/cv/CV_Cristian_Castellari.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://tparmerlee.github.io/static/assets/cv/Parmerlee_Tristan_Resume.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
 
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-paper-plane
+    - name: fas fa-rocket
     - name: fa-linux
   skill_icon2:
     - name: fa-apple
