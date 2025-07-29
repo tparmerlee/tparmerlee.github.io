@@ -4,13 +4,13 @@
 - name: MISSFIT Collaboration
   gh_user: 
   url: https://missfit.wp.drake.edu/
-  img: /static/assets/img/landing/kacesmatools.png
+  img: /static/assets/img/landing/MISSFIT_logo.png
   desc: Student-led Interdiciplinary Research Collaboration focused on solving issues associated with interplanetary space travel. Research focus was within the artificial gravity subgroup.
   #i18n: kace-sma-tools
 
 - name: Northwestern CIERA REU
   gh_user: 
   url: https://tparmerlee.github.io/CIERA_project
-  img: /static/assets/img/landing/development.png
+  img: /static/assets/img/landing/ciera_logo.png
   desc:  Research on stellar collisions in dense galactic centers and using machine learning to improve our understanding of how those systems evolve over time.
   #i18n: k1000-database-queries
