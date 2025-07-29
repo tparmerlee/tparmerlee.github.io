@@ -71,7 +71,7 @@ author:  # change following line to your infomation.
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-solid fa-meteor
+    - name: fa-meteor
     - name: fa-linux
   skill_icon2:
     - name: fa-apple
@@ -92,7 +92,7 @@ go:
   # id:
 
 ## donation
-donation: off  # type 'on'/'off' to choice display donation button at post page or not
+donation: on  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
