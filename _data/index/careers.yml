@@ -10,10 +10,10 @@
     detail: June 2025 - August 2025
     i18n: integra_date
   job:
-    detail: REU student for the summer of 2025
+    detail: Student in the 2025 CIERA REU Program with a research focus on hydrodynamical stellar collisions and machine learning.
     i18n: integra_job
   icon: fa-plus-square
-  present: false
+  present: true
 
 - name:
     detail: Loyola University Chicago
@@ -25,7 +25,7 @@
     detail: August 2024 - May 2026
     i18n: integra_date
   job:
-    detail: Majored in Physics with Computer Science and Mathematics
+    detail: Majored in Physics with Computer Science and Mathematics. Member of Dr. Walter Tangarife's Undergraduate Research Group, President of Physics Club and Treasurer of Loyolaccapella
     i18n: integra_job
   icon: fa-plus-square
   present: true
@@ -40,7 +40,7 @@
     detail: August 2022 - May 2024
     i18n: integra_date
   job:
-    detail: Majored in Physics, Astronomy, and Mathematics
+    detail: Majored in Physics, Astronomy, and Mathematics. Student Artificial Gravity Research Lead as a Member of the MISSFIT Collaboration
     i18n: integra_job
   icon: fa-plus-square
   present: false
