@@ -71,8 +71,8 @@ author:  # change following line to your infomation.
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fas fa-rocket
-    - name: fa-linux
+    - name: fas fa-meteor
+    - name: fab fa-redhat
   skill_icon2:
     - name: fab fa-python
     - name: fa-code
