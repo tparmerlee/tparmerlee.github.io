@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: MISSFIT Collaboration
   gh_user: 
-  url: https://missfit.wp.drake.edu/
+  url: https://missfit.wp.drake.edu/artificial-gravity/
   img: /static/assets/img/landing/MISSFIT_logo.png
   desc: Student-led Interdiciplinary Research Collaboration focused on solving issues associated with interplanetary space travel. Research focus was within the artificial gravity subgroup.
   #i18n: kace-sma-tools
