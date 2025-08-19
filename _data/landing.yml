@@ -26,6 +26,6 @@
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: Outreach
   tpl: links.html
   css: contact
