@@ -1,18 +1,24 @@
-# links section data
-- last_name: Name 1
+# outreach section data
+- last_name: Drake Observatory
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: Volunteer Astronomer at Weekly Public Nights
+  website: https://www.drake.edu/observatory/
+  email: herb.folsom@drake.edu
 
-- last_name: Skyblog
+- last_name: LUC Physics Club President
   first_name: 
-  desc: My website
-  website: https://www.skyflash.it
-  email: c.castellari@gmail.com
+  desc: Organized Physics Events for the LUC Physics Department; Volunteered as a Physics Club Tutor
+  website: https://www.luc.edu/physics/physics_club.shtml
+  email: bcannon1@luc.edu
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Drake University Math Tutor
+  first_name:
+  desc: Paid Tutor for the Drake University Math Department
+  website: https://www.drake.edu/access-success/tutoring/#:~:text=Math%2FComputer%20Science&text=The%20Math%2FCS%20tutoring%20lab,up%20while%20you're%20studying.
+  email: andrew.becklin@drake.edu
+
+- last_name: Loyola University Chicago Math Tutor
+  first_name:
+  desc: Paid Tutor for the LUC Tutoring Center
+  website: https://www.luc.edu/tutoring/index.shtml
+  email: tutoringcenter@luc.edu
