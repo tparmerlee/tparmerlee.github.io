@@ -8,33 +8,23 @@
     <div class="row">
     {% for link in site.data.index.links %}
         {% assign loopindex = forloop.index | modulo: 3 %}
-        {% assign remainder = forloop.length | modulo: 3 %}
-
         {% if forloop.last %}
-            {% if remainder == 1 %}
-                <!-- Center 1 leftover item -->
-                <div class="col-sm-4 col-sm-offset-4 wow zoomIn">
-            {% elsif remainder == 2 %}
-                <!-- Two leftover items, offset first -->
-                {% if loopindex == 1 %}
-                <div class="col-sm-4 col-sm-offset-2 wow fadeInLeft">
+            {% if forloop.last == forloop.first %}
+        <div class="col-sm-4 col-sm-offset-4 wow zoomIn">
                 {% else %}
-                <div class="col-sm-4 wow fadeInRight">
-                {% endif %}
-            {% else %}
-                <!-- Perfectly divisible by 3, no offset -->
-                <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% elsif loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
+        <div class="col-sm-4 wow {% if loopindex != 0 %} col-sm-offset-4 fadeInRight {% else %} zoomIn {% endif %}">
             {% endif %}
         {% else %}
-            <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% elsif loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
+        <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
         {% endif %}
-
         <div class="team-member">
             <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
             <p>{{ link.desc }}</p>
-            <ul class="social-icon">
-                <li><a href="{{ link.website }}" target="_blank"><i class="fa fa-link"></i></a></li>
-                <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a></li>
+            <ul class="list-inline social-icon">
+                <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
+                </li>
+                <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a>
+                </li>
             </ul>
         </div>
         </div>
