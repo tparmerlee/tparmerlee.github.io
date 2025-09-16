@@ -16,7 +16,7 @@
     detail:
     il8n: integra_image
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Loyola University Chicago
