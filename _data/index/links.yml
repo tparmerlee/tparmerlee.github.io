@@ -7,21 +7,33 @@
 
 - last_name: LUC Physics Club President
   first_name: 
-  desc: Organized Physics Events for the LUC Physics Department; Volunteered as a Physics Club Tutor
+  desc: Organized Physics Events for the LUC Physics Department
   website: https://www.luc.edu/physics/physics_club.shtml
   email: bcannon1@luc.edu
 
-# - last_name: Drake University Math Tutor
-#   first_name:
-#   desc: Paid Tutor for the Drake University Math Department
-#   website: https://www.drake.edu/access-success/tutoring/#:~:text=Math%2FComputer%20Science&text=The%20Math%2FCS%20tutoring%20lab,up%20while%20you're%20studying.
-#   email: andrew.becklin@drake.edu
-
-- last_name: Math Tutor
+- last_name: Drake University Math Tutor
   first_name:
-  desc: Paid Tutor for the Drake University Math Department and LUC Tutoring Center
+  desc: Paid Tutor for the Drake University Math Department
+  website: https://www.drake.edu/access-success/tutoring/#:~:text=Math%2FComputer%20Science&text=The%20Math%2FCS%20tutoring%20lab,up%20while%20you're%20studying.
+  email: andrew.becklin@drake.edu
+
+- last_name: LUC Math/Physics Tutor
+  first_name:
+  desc: Paid Tutor for the LUC Tutoring Center and Volunteer Physics Tutor through Physics Club
   website: https://www.luc.edu/tutoring/index.shtml
   email: tutoringcenter@luc.edu
+
+- last_name: Physics Department Office Assistant
+  first_name:
+  desc: Paid Office Assistant that helped maintain faculty resources and handeled mail deliveries
+  website: https://www.luc.edu/physics/
+  email: morvin@luc.edu
+
+- last_name: Physics Department Homework Grader
+  first_name:
+  desc: Paid grader for upper-level physics classes (specifically, electricity and magnetism)
+  website: https://www.luc.edu/physics/
+  email: rmcnees@luc.edu
 
 - last_name: Brocal Chords
   first_name:
@@ -33,4 +45,5 @@
   first_name:
   desc: Treasurer of Loyolacappella, Loyola University Chicago's Premier All-Voice Acappella Group
   website: https://www.youtube.com/user/loyolacappella
-  email: 
+  email:
+
