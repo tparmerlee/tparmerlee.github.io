@@ -6,33 +6,54 @@
         </div>
     </div>
     <div class="row">
-    {% for link in site.data.index.links %}
-        {% assign loopindex = forloop.index | modulo: 3 %}
-        {% assign total = site.data.index.links.size %}
-        {% if forloop.last and total | modulo: 3 == 1 %}
-            <div class="col-sm-4 col-sm-offset-4 wow zoomIn">
-        {% elsif forloop.rindex == 2 and total | modulo: 3 == 2 %}
-            {% if loopindex == 1 %}
-                <div class="col-sm-4 wow fadeInLeft">
-            {% else %}
-                <div class="col-sm-4 wow fadeInRight">
-        {% endif %}
-        {% else %}
-            <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% elsif loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
-        {% endif %}
-        <div class="team-member">
-            <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
-            <p>{{ link.desc }}</p>
-            <ul class="list-inline social-icon">
-                <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
-                </li>
-                <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a>
-                </li>
-            </ul>
-        </div>
-        </div>
-    {% endfor %}
+  {% assign total = site.data.index.links.size %}
+  {% assign rem_total = total | modulo: 3 %}
+
+  {% for link in site.data.index.links %}
+    {% assign idx0 = forloop.index0 %}
+    {% assign last_row_start = total | minus: rem_total %}
+
+    {%- comment -%}
+      Cases:
+        - rem_total == 1  -> last row has 1 item  -> center that single item
+        - rem_total == 2  -> last row has 2 items -> offset the first of those two only
+        - otherwise -> normal 3-column behaviour
+    {%- endcomment -%}
+
+    {% if rem_total == 1 and forloop.last %}
+      <!-- single item on last row -> center -->
+      {% assign col_classes = "col-sm-4 col-sm-offset-4 wow zoomIn" %}
+    {% elsif rem_total == 2 and idx0 == last_row_start %}
+      <!-- first of two items in last row -> offset to center pair -->
+      {% assign col_classes = "col-sm-offset-2 col-sm-4 wow fadeInLeft" %}
+    {% elsif rem_total == 2 and idx0 > last_row_start %}
+      <!-- second of two items in last row -> no offset -->
+      {% assign col_classes = "col-sm-4 wow fadeInRight" %}
+    {% else %}
+      <!-- normal 3-column layout, use 0-based position in the row for animation -->
+      {% assign pos = idx0 | modulo: 3 %}
+      {% if pos == 0 %}
+        {% assign col_classes = "col-sm-4 wow fadeInRight" %}
+      {% elsif pos == 1 %}
+        {% assign col_classes = "col-sm-4 wow fadeInLeft" %}
+      {% else %}
+        {% assign col_classes = "col-sm-4 wow zoomIn" %}
+      {% endif %}
+    {% endif %}
+
+    <div class="{{ col_classes }}">
+      <div class="team-member">
+        <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
+        <p>{{ link.desc }}</p>
+        <ul class="list-inline social-icon">
+          <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a></li>
+          <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a></li>
+        </ul>
+      </div>
     </div>
+  {% endfor %}
+</div>
+
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
             <p id="jalpc_site_pv"><strong>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</strong></p>
