@@ -75,7 +75,7 @@ author:  # change following line to your infomation.
     - name: fab fa-linux
   skill_icon2:
     - name: fab fa-python
-    - name: fa-tex
+    - name: fab fa-tex
   desc: "I am 4th year undergraduate student at Loyola University Chicago, majoring in Physics with Computer Science and Mathematics. My research interests are in astrophysics, specifically theoretical and computational work. I hope to go to graduate school in the near future for a PhD."
 
 # comment
