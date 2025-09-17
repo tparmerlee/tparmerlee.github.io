@@ -10,20 +10,11 @@
         {% assign loopindex = forloop.index | modulo: 3 %}
         {% assign total = site.data.index.links.size %}
         {% if forloop.last and total | modulo: 3 == 1 %}
-                <!-- Only 1 item in the last row → center -->
-                <div class="col-sm-4 col-sm-offset-4 wow zoomIn">
-            {% elsif forloop.last or forloop.rindex == 2 and total | modulo: 3 == 2 %}
-                <!-- Last row with 2 items → place normally, no offset -->
-                <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
-            {% else %}
-                <!-- Regular 3-column rows -->
-                <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% elsif loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
-            {% endif %}
+            <div class="col-sm-4 col-sm-offset-4 wow zoomIn">
+        {% elsif forloop.last or forloop.rindex == 2 and total | modulo: 3 == 2 %}
+            <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
         {% else %}
-        <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% elsif loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
-            {% if loopindex == 0 %}
-            <div class="w-100"></div> 
-            {% endif %}
+            <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% elsif loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
         {% endif %}
         <div class="team-member">
             <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
