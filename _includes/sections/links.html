@@ -8,10 +8,11 @@
     <div class="row">
     {% for link in site.data.index.links %}
         {% assign loopindex = forloop.index | modulo: 3 %}
-        {% if forloop.last and forloop.length | modulo: 3 == 1 %}
+        {% assign total = site.data.index.links.size %}
+        {% if forloop.last and total | modulo: 3 == 1 %}
                 <!-- Only 1 item in the last row → center -->
                 <div class="col-sm-4 col-sm-offset-4 wow zoomIn">
-            {% elsif forloop.last or forloop.rindex == 2 and forloop.length | modulo: 3 == 2 %}
+            {% elsif forloop.last or forloop.rindex == 2 and total | modulo: 3 == 2 %}
                 <!-- Last row with 2 items → place normally, no offset -->
                 <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% else %}
