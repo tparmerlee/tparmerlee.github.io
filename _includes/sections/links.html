@@ -15,7 +15,7 @@
         <div class="col-sm-4 wow {% if loopindex != 0 %} col-sm-offset-4 fadeInRight <div class="w-100"></div> {% else %} zoomIn {% endif %}">
             {% endif %}
         {% else %}
-        <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% elsif loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
+        <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% elsif loopindex == 2 %} zoomIn {% else %} fadeInRight <div class="w-100"></div> {% endif %}">
         {% endif %}
         <div class="team-member">
             <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
