@@ -11,6 +11,12 @@
   website: https://www.luc.edu/physics/physics_club.shtml
   email: bcannon1@luc.edu
 
+  - last_name: Physics Department Homework Grader
+  first_name:
+  desc: Paid grader for upper-level physics classes (specifically, electricity and magnetism)
+  website: https://www.luc.edu/physics/
+  email: rmcnees@luc.edu
+
 - last_name: Drake University Math Tutor
   first_name:
   desc: Paid Tutor for the Drake University Math Department
@@ -28,12 +34,6 @@
   desc: Volunteer Astronomer at Weekly Public Nights
   website: https://www.drake.edu/observatory/
   email: herb.folsom@drake.edu
-
-- last_name: Physics Department Homework Grader
-  first_name:
-  desc: Paid grader for upper-level physics classes (specifically, electricity and magnetism)
-  website: https://www.luc.edu/physics/
-  email: rmcnees@luc.edu
 
 - last_name: Brocal Chords
   first_name:
