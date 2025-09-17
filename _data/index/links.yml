@@ -1,9 +1,9 @@
 # outreach section data
-- last_name: Drake Municipal Observatory
+- last_name: Physics Department Office Assistant
   first_name:
-  desc: Volunteer Astronomer at Weekly Public Nights
-  website: https://www.drake.edu/observatory/
-  email: herb.folsom@drake.edu
+  desc: Paid Office Assistant that helped maintain faculty resources and handeled mail deliveries
+  website: https://www.luc.edu/physics/
+  email: morvin@luc.edu
 
 - last_name: LUC Physics Club President
   first_name: 
@@ -23,11 +23,11 @@
   website: https://www.luc.edu/tutoring/index.shtml
   email: tutoringcenter@luc.edu
 
-- last_name: Physics Department Office Assistant
+- last_name: Drake Municipal Observatory
   first_name:
-  desc: Paid Office Assistant that helped maintain faculty resources and handeled mail deliveries
-  website: https://www.luc.edu/physics/
-  email: morvin@luc.edu
+  desc: Volunteer Astronomer at Weekly Public Nights
+  website: https://www.drake.edu/observatory/
+  email: herb.folsom@drake.edu
 
 - last_name: Physics Department Homework Grader
   first_name:
